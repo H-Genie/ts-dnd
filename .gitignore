@@ -1,4 +1,5 @@
 node_modules
 dist
 .cache
-app.js
+package-lock.json
+yarn.lock
