@@ -2,16 +2,15 @@
   "compilerOptions": {
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
-    "module": "AMD",
+    "module": "ES2015",
     "jsx": "preserve",
     "esModuleInterop": true,
     "sourceMap": true,
-    "outFile": "./dist/bundle.js",
     "outDir": "./dist",
     "allowJs": true,
     "lib": ["es6", "dom"],
     "rootDir": "src",
     "moduleResolution": "node",
-    "target": "es2015"
+    "target": "ES6"
   }
 }
